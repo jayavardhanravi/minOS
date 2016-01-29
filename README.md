@@ -33,3 +33,6 @@ This program is an simple example for the usage of pthreads. This example consis
 ##### GCD of numbers
 - gcd(x1, x2,..., x6)
 
+##### Listing all files and directories
+- ls
+
